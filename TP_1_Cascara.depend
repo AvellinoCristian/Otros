@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504891274 source:c:\users\hobu\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504891362 c:\users\hobu\desktop\tp1\funciones.h
+
