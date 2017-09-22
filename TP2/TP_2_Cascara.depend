@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1506097743 source:c:\users\hobu\desktop\tp2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1506097923 c:\users\hobu\desktop\tp2\tp_2_cascara\funciones.h
+
+1505864460 c:\users\hobu\desktop\tp2\tp_2_cascara\criave.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
